@@ -1,0 +1,41 @@
+body{
+    margin:0 auto;
+    padding:0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(250, 231, 215);
+    }
+.center{
+    position:absolute;
+    
+} 
+.resume{
+    text-align: center;
+    transform: translate(35%,0%);
+    border-bottom: 2px solid;
+} 
+.pi{
+    text-align: left;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
+}  
+.p1{
+    align-items: center;
+    margin:0 auto;
+    position: relative;
+    padding:0 30px 20px;
+    border:none;
+ }
+ .p1 input{
+     background: none;
+     border: none;
+ }
+.sub{
+    text-align: center;
+    transform: translate(0%,8500%);
+}
+
+
+
+
+
